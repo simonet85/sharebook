@@ -7,11 +7,11 @@ body and link to some other resource such as an article or blog post.
 We will build our own custom MVC Framework to create the application
 
 3.Topics Covered
-> Configure Apache virtual host : https://bit.ly/2Dgbq01
-> MVC : we will build our own mini-framework
-> User Login & Registration
-> Working with Sessions
-> Fetch & Insert data into Mysql Through our application
+Configure Apache virtual host : https://bit.ly/2Dgbq01
+MVC : we will build our own mini-framework
+User Login & Registration
+Working with Sessions
+Fetch & Insert data into Mysql Through our application
 
 4.Database Setup
-> Create a database and import the sharebook.sql
+Create a database and import the sharebook.sql
